@@ -2,7 +2,7 @@
 
 # Olá, eu sou Leonardo Barganian :wave:  
 
-Tenho 31 anos, moro em Santópolis do Aguapeí/SP e estou cursando o 6º semestre de Ciência de Dados pela Univesp.   
+Tenho 31 anos, moro em Santópolis do Aguapeí/SP e estou cursando o 8º semestre de Ciência de Dados pela Univesp.   
 Sou professor de **Apoio à Tecnologia** e **Matemática** na rede estadual de ensino, e estou estagiando na **Compass Uol**. Essa está sendo a minha primeira experiência na área de Desenvolvimento.  
 
 ## No meu tempo livre, gosto de:
